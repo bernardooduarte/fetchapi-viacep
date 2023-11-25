@@ -1,4 +1,4 @@
-fetch("https://viacep.com.br/ws/36021-630/json/", {
+fetch("https://viacep.com.br/ws/36021630/json/", {
   method: "GET",
   headers: {
     "Content-Type": "application/json",
