@@ -1,6 +1,6 @@
 let cep = "36021630"
 
-fetch(`https://viacep.com.br/ws/${cep}/json/`, {
+fetch(`https://viacep.com.br/ws/${cp}/json/`, {
   method: "GET",
   headers: {
     "Content-Type": "application/json",
